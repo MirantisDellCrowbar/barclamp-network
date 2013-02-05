@@ -136,6 +136,9 @@ debs:
   ubuntu-12.04:
     pkgs:
       - rpcbind
+  ubuntu-12.10:
+    pkgs:
+      - rpcbind
   pkgs:
     - bridge-utils
     - vlan
